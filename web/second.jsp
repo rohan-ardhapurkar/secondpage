@@ -33,7 +33,7 @@ Please tick from the following options:
 SECTION A - ACCOUNT DETAILS
 </div>
 
-<table width="100%" style="border: 1px solid;">
+<table width="98.5%" style="border: 1px solid;">
     <tr>
         <th>Bank Account No.</th>
         <th>Branch Name</th>
